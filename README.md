@@ -1,1 +1,1 @@
-<h1> Lista de exercios teste js</h1>
+<h1> Lista de exercicios teste js</h1>
