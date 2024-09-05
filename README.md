@@ -1,1 +1,3 @@
-<h1> Lista de exercicios teste js</h1>
+<h2 align="center">
+  Relembrando exercícios básicos com JS
+</h2>
