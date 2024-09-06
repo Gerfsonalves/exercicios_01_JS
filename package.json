@@ -1,0 +1,11 @@
+{
+  "name": "exercicios_01_js",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">\r   Relembrando exercícios básicos com JS\r </h2>",
+  "main": "arrays.js",
+  "scripts": {
+    "start": "node exe2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
